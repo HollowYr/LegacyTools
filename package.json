@@ -1,0 +1,15 @@
+{
+    "name": "com.jarylo.helpertools",
+    "version": "1.0.0",
+    "displayName": "Helper Tools",
+    "description": "",
+    "unity": "2020.3",
+    "dependencies": {    
+    },
+    "keywords": ["tools","extensions"],
+    "author": {
+        "name": "Wlg2032",
+        "email": "yar.krishtal@gmail.com"
+    },
+    "hideInEditor": false
+}
