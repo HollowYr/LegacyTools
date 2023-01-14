@@ -5,11 +5,6 @@ using UnityEngine;
 
 public static class DebugLegacy
 {
-    public static string WithColor(this string String, string color)
-    {
-        return $"<color={color}>{String}</color>";
-    }
-
     public static void DebugDrawLine(Vector3 p1, Vector3 p2, Color color, float width)
     {
         int count = 1 + Mathf.CeilToInt(width); // how many lines are needed.
